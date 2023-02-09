@@ -6,7 +6,7 @@ This analysis aims to make a business case for a Citibikes program in Des Moines
 
 See the full Tableau Story here:
 
-[link to dashboard]([https://public.tableau.com/shared/TM9GC7STT?:display_count=n&:origin=viz_share_link] "link to dashboard")
+[link to dashboard](https://public.tableau.com/shared/TM9GC7STT?:display_count=n&:origin=viz_share_link "link to dashboard")
 
 ## Results
 
