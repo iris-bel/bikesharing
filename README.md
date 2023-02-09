@@ -18,7 +18,7 @@ This visualization displays the distribution of the length of time that bikes we
 
 This graph displays the check out times once again, but shows the trends based on gender. The graph reveals that the check out time trends are the same amongst men and women. We also begin to see the trend that men seem to make up a higher proportion of bike users.
 
-![Gender Breakdown](gender_breakdown.png)
+![Trips Weekday](Trips_Weekday.png)
 
 This visualization provides another good representation of peak bike usage, this time showing us the detail for each day of the week. The graph confirms our observation from the first bar chart that the bikes are used by commuters during weekdays, as use is focused densely on morning and evening commuting hours. During weekend days we see that use is more dispersed throughout the day, with apparently heavier use on Saturday than on Sunday. An interesting anomaly appears on Wednesday evenings when it seems that there are less commuters than other weekdays. It may be interesting to look into this to see if there is any significance in this pattern that might be transferable to Des Moines.
 
@@ -26,7 +26,7 @@ This visualization provides another good representation of peak bike usage, this
 
 This graph reveals the same information as the one above it, but again provides the detail of looking into trends by gender. Similarly to what was observed in the ride length graphs, this graph shows that ride tendencies among men and women seem to follow the same patterns. However we once again see that men appear to account for more bike rides than women.
 
-![Trips Gender](Trips_Gender_Weekday.png)
+![Gender Breakdown](gender_breakdown.png)
 
 This pie chart confirms what the graphs above have been suggesting - men make up over 50% of bike riders. It will be interesting to see if this trend will stay true in Des Moines and brings up the question of how to better advertise the bike option to women.
 
