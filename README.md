@@ -6,22 +6,22 @@ This analysis aims to make a business case for a Citibikes program in Des Moines
 
 ## Results
 
-![Checkout Time Users](Starter_Code/Checkout_Time_Users.png)
+![Checkout Time Users](Checkout_Time_Users.png)
 
 
-![Checkout Time Gender](Starter_Code/Checkout_Time_Gender.png)
+![Checkout Time Gender](Checkout_Time_Gender.png)
 
 
-![Trips Weekday](Starter_Code/Trips_Weekday.png)
+![Trips Weekday](Trips_Weekday.png)
 
 
-![Trips Gender](Starter_Code/Trips_Gender.png)
+![Trips Gender](Trips_Gender.png)
 
 
-![Trips Gender](Starter_Code/Trips_Gender_Weekday.png)
+![Trips Gender](Trips_Gender_Weekday.png)
 
 
-![Trips Gender](Starter_Code/Trips_ALL.png)
+![Trips Gender](Trips_ALL.png)
 
 
 ## Summary
